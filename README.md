@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlreadyCode
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning how to use Unity and it's language C#.
